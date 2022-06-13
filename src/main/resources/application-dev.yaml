@@ -1,0 +1,7 @@
+application:
+  dynamoDBUrl: localhost:8000
+amazon:
+  aws:
+    accessKey: 'key'
+    secretKey: 'secret'
+    region: 'us-west-2'

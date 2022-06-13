@@ -1,0 +1,10 @@
+server:
+  port: 8001
+
+application:
+  dynamoDBUrl: localhost:8001
+amazon:
+  aws:
+    accessKey: 'key'
+    secretKey: 'secret'
+    region: 'us-west-2'
